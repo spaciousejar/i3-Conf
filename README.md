@@ -21,8 +21,7 @@ This is the configuration file for the i3 window manager. It is designed to prov
 	+ `Mod + 1-9`: Switch to workspace 1-9
 	+ `Mod + Shift + 1-9`: Move the current window to workspace 1-9
 * **Other:**
-	+ `Mod + r`: Restart i3
-	+ `Mod + Shift + q`: Quit i3
+	+ `ctrl + Shift + q`: Restart i3 
 
 **Customization:**
 
@@ -36,8 +35,3 @@ This is the configuration file for the i3 window manager. It is designed to prov
 * Experiment with different layouts and keybindings to find a setup that works best for you.
 * Consider adding custom scripts and tools to further customize your i3 experience.
 
-**Troubleshooting:**
-
-* If you encounter any issues with your i3 configuration, try restarting i3 using `Mod + r`.
-* Check the i3 documentation and online forums for solutions to common problems.
-* Consider seeking help from the i3 community or online forums if you need further assistance.
