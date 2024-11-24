@@ -28,10 +28,3 @@ This is the configuration file for the i3 window manager. It is designed to prov
 * **Colors:** The color scheme used in this configuration is designed to be visually appealing and easy on the eyes. It includes a range of colors for different elements, such as the background, foreground, and accents.
 * **Fonts:** The font used in this configuration is the JetBrainsMono Nerd Font, which is a highly customizable and readable font.
 * **Layout:** The layout is optimized for a tiling layout, with a focus on maximizing screen space and minimizing window overlap.
-
-**Tips and Tricks:**
-
-* Use `Mod + Shift + e` to open the i3 help menu, which includes a list of all keybindings and configuration options.
-* Experiment with different layouts and keybindings to find a setup that works best for you.
-* Consider adding custom scripts and tools to further customize your i3 experience.
-
