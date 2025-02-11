@@ -2,6 +2,9 @@
 
 This configuration file is tailored for the i3 window manager, offering a highly customizable and efficient way to manage windows on your desktop.
 
+![i3 Configuration](/theme/i3.png)
+
+
 **Key Features:**
 
 * **Layout Management:** i3 supports various layout options, including tiling, floating, and tabbed layouts. This configuration is optimized for a tiling layout, ensuring maximum screen space utilization and minimal window overlap.
@@ -75,14 +78,7 @@ This configuration file is tailored for the i3 window manager, offering a highly
 * **Window Manager:**
 	+ `ctrl + shift + R`: Restart i3wm
 	+ `super + shift + C`: Reload i3wm
-	+ `super + shift + Q`: Quit i3wm
-* **Misc Keys:**
-	+ `ctrl + alt + V`: Open vim in terminal
-	+ `ctrl + alt + R`: Open ranger in terminal
-	+ `ctrl + alt + H`: Open htop in terminal
-	+ `ctrl + alt + M`: Open ncmpcpp with album art in terminal
-	+ `ctrl + alt + L`: Trigger lockscreen
-	+ `super + P`: Run colorpicker
+	+ `super + shift + Q`: Quit i3wwm
 
 **Customization:**
 
